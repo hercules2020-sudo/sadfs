@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #0a0a0a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#name {
+  position: absolute;
+  color: #fff;
+  font-size: 5rem;
+  font-family: 'Segoe UI', sans-serif;
+  cursor: pointer;
+  z-index: 1;
+}
